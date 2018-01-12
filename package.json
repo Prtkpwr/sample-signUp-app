@@ -1,0 +1,27 @@
+{
+  "name": "sample-signup-app",
+  "version": "1.0.0",
+  "description": "simple signup app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "*",
+    "express-session": "*",
+    "morgan": "*",
+    "mongoose": "*",
+    "cookie-parser": "*",
+    "body-parser": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prtkpwr/sample-signUp-app.git"
+  },
+  "author": "prtkpwr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prtkpwr/sample-signUp-app/issues"
+  },
+  "homepage": "https://github.com/prtkpwr/sample-signUp-app#readme"
+}
